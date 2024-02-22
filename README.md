@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cyberillc
 - 👀 I’m interested in Gameloft Modding
-- 🌱 I’m currently learning To Decode gameloft zip files
-- 💞️ I’m looking to collaborate on Archive Gameloft Games
+- 🌱 I’m currently learning To Decode gameloft zip files and games
+- 💞️ I’m looking to collaborate on Archiving Gameloft Games
 - 📫 How to reach me on gmail jasonniiokaiokine@gmail.com
 
 <!---
